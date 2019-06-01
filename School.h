@@ -33,8 +33,8 @@ class School{
     //constructors
     School();
 
-	  //behaviour that client doesn't need
-	  void remove_teacher_from_all_courses(vector<Course>& courses, Teacher& teacher);
+    //behaviour that client doesn't need
+    void remove_teacher_from_all_courses(vector<Course>& courses, Teacher& teacher);
 
     //behaviours that client needs
     void admit_student();
@@ -47,14 +47,14 @@ class School{
     void remove_student_from_class();
     void assign_teacher_to_class();
     void remove_teacher_from_class();
-	  void view_course_details();
-	  void view_student_details();
-	  void view_teacher_details();
-	  void print_all_students();
-	  void print_all_teachers();
-	  void print_all_courses();
-	  void print();  
-	  friend istream& operator >> (istream& inn, School& school);
+    void view_course_details();
+    void view_student_details();
+    void view_teacher_details();
+    void print_all_students();
+    void print_all_teachers();
+    void print_all_courses();
+    void print();  
+    friend istream& operator >> (istream& inn, School& school);
 };
 
 #endif
