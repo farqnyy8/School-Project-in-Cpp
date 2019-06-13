@@ -1,4 +1,4 @@
-# School-Project in C++
+# School Project in C++
 This project is a mini-version of the system my school uses for administration.  It creates a school and displays a menu to guide the user.
 
 <br>Project — School Project(C++)
