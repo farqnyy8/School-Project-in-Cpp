@@ -24,4 +24,4 @@ The user can:
 15. Quit program!!!
 
 Link to run project online: https://repl.it/@FaruqHammed/School-Project-C
-Java Version: https://github.com/farqnyy8/School-Project-in-Java
+<br> Java Version: https://github.com/farqnyy8/School-Project-in-Java
