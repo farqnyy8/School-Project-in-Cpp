@@ -22,3 +22,5 @@ The user can:
 13. View the details of a particular course
 14. Print School Details.
 15. Quit program!!!
+
+Link to run project online: https://repl.it/@FaruqHammed/School-Project-C
