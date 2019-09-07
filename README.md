@@ -1,5 +1,5 @@
 # School Project in C++
-This project is a mini-version of the system my school uses for administration.  It creates a school and displays a menu to guide the user.
+This project is a mini-version of the system my school uses for administration.  It creates a school object and displays a menu to guide the user.
 
 <br>Project — School Project(C++)
 <br>By — Faruq Eniola Hammed
